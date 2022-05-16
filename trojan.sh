@@ -1,8 +1,8 @@
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/web
+wget -N https://raw.githubusercontent.com/qwer-search/ALD/main/web
 chmod +x ./web
 
 if [[ -z $id ]]; then
-    id="1eb6e917-774b-4a84-aff6-b058577c60a5"
+    id="452bd307-ec76-4124-8e69-7b2088edd641"
 fi
 
 cat <<EOF > ~/config.json
